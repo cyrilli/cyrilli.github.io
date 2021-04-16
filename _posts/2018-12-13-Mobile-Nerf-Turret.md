@@ -11,7 +11,7 @@ We put a [nerf gun](https://nerf.hasbro.com/en-us) on top of a [Turtlebot](https
 
 - Setup
 
-![](../images/Picture4.png)
+![](https://cyrilli.github.io/images/Picture4.png)
 
 - Video demo:
 
