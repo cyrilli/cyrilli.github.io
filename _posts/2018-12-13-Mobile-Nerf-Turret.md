@@ -13,7 +13,5 @@ We put a [nerf gun](https://nerf.hasbro.com/en-us) on top of a [Turtlebot](https
   <img src="https://github.com/cyrilli/cyrilli.github.io/blob/master/images/Picture4.png" width="600">
 </p>
 - Video demos:
-Single object             |  Multiple objects
-:-------------------------:|:-------------------------:
-[![single objects grasp detection simulation](http://img.youtube.com/vi/GI-E_MLOj64/0.jpg)](http://www.youtube.com/watch?v=GI-E_MLOj64 "Video Title")  |  [![multiple objects grasp detection simulation](http://img.youtube.com/vi/qlhEtHCVZsw/0.jpg)](http://www.youtube.com/watch?v=qlhEtHCVZsw "Video Title")
+[![turtlebot with nerf gun](http://img.youtube.com/vi/dszmMOR-yfo/0.jpg)](http://www.youtube.com/watch?v=dszmMOR-yfo "Video Title")
 
