@@ -5,7 +5,7 @@ published: true
 project: false
 ---
 
-A fun project I did for CS-6501 Autonomous Mobile Robot in 2018 Fall at UVa.
+This is the final project I did for CS-6501 Autonomous Mobile Robot in 2018 Fall at UVa.
 
 We put a [nerf gun](https://nerf.hasbro.com/en-us) on top of a [Turtlebot](https://www.turtlebot.com/turtlebot2/) robot, and added some servos to automatically adjust the pitch angle of the nerf gun and to pull the trigger. The robot will navigate the environment to search for and shoot [AprilTags](https://april.eecs.umich.edu/software/apriltag).
 
