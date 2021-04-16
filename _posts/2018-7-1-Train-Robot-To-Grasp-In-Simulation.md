@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [Fun Stuff] Train Robot to Grasp Things in Simulation Environment
+title: Fun Stuff - Train Robot to Grasp Things in Simulation Environment
 published: true
 project: false
 ---
