@@ -24,6 +24,7 @@ I am broadly interested in machine learning / statistical learning methods and t
 - [arXiv'21] Incentivizing Exploration in Linear Bandits under Information Gap
   - Huazheng Wang, Haifeng Xu, **Chuanhao Li**, Zhiyuan Liu, Hongning Wang
   - [\[paper\]](https://arxiv.org/abs/2104.03860)
+
 ### 2021
 - [AISTATS'21] Unifying Clustered and Non-stationary Bandits
   - **Chuanhao Li**, Qingyun Wu, Hongning Wang
