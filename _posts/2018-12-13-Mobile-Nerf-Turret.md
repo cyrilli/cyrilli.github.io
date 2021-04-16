@@ -18,5 +18,5 @@ We put a [nerf gun](https://nerf.hasbro.com/en-us) on top of a [Turtlebot](https
 - Video demo:
 
 <p align="center"> 
-<a href="http://img.youtube.com/vi/dszmMOR-yfo/0.jpg"><img src="http://img.youtube.com/vi/dszmMOR-yfo/0.jpg" width="600"></a>
+<a href="http://img.youtube.com/vi/dszmMOR-yfo/0.jpg"><img src="http://img.youtube.com/vi/dszmMOR-yfo/0.jpg"></a>
 </p>
