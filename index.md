@@ -21,11 +21,13 @@ I am broadly interested in machine learning / statistical learning methods and t
 ## **Publications**
 [Google Scholar](https://scholar.google.com/citations?user=w2ShljkAAAAJ&hl=en&oi=ao)
 ### Preprints
-- Huazheng Wang, Haifeng Xu, **Chuanhao Li**, Zhiyuan Liu, Hongning Wang, [Incentivizing Exploration in Linear Bandits under Information Gap](https://arxiv.org/abs/2104.03860).
-
+- [arXiv'21] Huazheng Wang, Haifeng Xu, **Chuanhao Li**, Zhiyuan Liu, Hongning Wang, Incentivizing Exploration in Linear Bandits under Information Gap
+  - [\[paper\]](https://arxiv.org/abs/2104.03860)
 ### 2021
-- **Chuanhao Li**, Qingyun Wu, Hongning Wang, [Unifying Clustered and Non-stationary Bandits](http://proceedings.mlr.press/v130/li21c/li21c.pdf), AISTATS 2021.
-- **Chuanhao Li**, Qingyun Wu, Hongning Wang, [When and Whom to Collaborate with in a Changing Environment: A Collaborative Dynamic Bandit Solution](https://arxiv.org/abs/2104.07150), SIGIR 2021 (to appear).
+- [AISTATS'21] **Chuanhao Li**, Qingyun Wu, Hongning Wang, Unifying Clustered and Non-stationary Bandits
+  - [\[paper\]](http://proceedings.mlr.press/v130/li21c/li21c.pdf) [\[code\]](https://github.com/cyrilli/DyClu)
+- [SIGIR'21] **Chuanhao Li**, Qingyun Wu, Hongning Wang, When and Whom to Collaborate with in a Changing Environment: A Collaborative Dynamic Bandit Solution
+  - [\[paper\]](https://arxiv.org/abs/2104.07150) [\[code\]](https://github.com/cyrilli/CoDBand)
 
 ## **Employment**
 - [Summer 2020] Data Scientist Intern, Walmart Labs
