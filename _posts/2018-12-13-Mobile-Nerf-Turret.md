@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [Fun Stuff] A Mobile Nerf Turret
+title: Fun Stuff - A Mobile Nerf Turret
 published: true
 project: false
 ---
