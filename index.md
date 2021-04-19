@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Chuanhao Li - Doctoral Student at University of Virginia
+title: 
 published: true
 ---
 
