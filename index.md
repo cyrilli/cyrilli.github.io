@@ -35,7 +35,7 @@ I am broadly interested in machine learning / statistical learning methods and t
   - [\[paper\]](http://proceedings.mlr.press/v130/li21c) [\[code\]](https://github.com/cyrilli/DyClu)
 - [SIGIR'21] When and Whom to Collaborate with in a Changing Environment: A Collaborative Dynamic Bandit Solution
   - **Chuanhao Li**, Qingyun Wu, Hongning Wang
-  - [\[paper\]](https://arxiv.org/abs/2104.07150) [\[code\]](https://github.com/cyrilli/CoDBand)
+  - [\[paper\]](https://dl.acm.org/doi/10.1145/3404835.3462852) [\[code\]](https://github.com/cyrilli/CoDBand)
 
 ## **Employment**
 - [Summer 2020] Data Scientist Intern, Walmart Labs
