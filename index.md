@@ -5,7 +5,7 @@ published: true
 ---
 
 ## **About Me**
-I am a PhD student in Computer Science at [University of Virginia](https://www.virginia.edu/). My advisor is [Hongning Wang](http://www.cs.virginia.edu/~hw5x/). 
+I am a PhD candidate in Computer Science at [University of Virginia](https://www.virginia.edu/). My advisor is [Hongning Wang](http://www.cs.virginia.edu/~hw5x/). 
 Before joining UVa, I received my Bachelor degree in Mechanical Engineering and Master degree in Mechatronics Engineering from [Harbin Institute of Technology](http://en.hit.edu.cn/) in 2016 and 2018, respectively, where I worked on machine learning for prognostic health monitoring and robotics.
 
 My name is pronounced as tren-HOW Lee. 
