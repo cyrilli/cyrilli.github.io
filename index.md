@@ -24,18 +24,19 @@ I am broadly interested in machine learning / statistical learning methods and t
 
 ## **Publications**
 [\[Google Scholar\]](https://scholar.google.com/citations?user=w2ShljkAAAAJ&hl=en&oi=ao)
-### Preprints
-- [arXiv'21] Incentivizing Exploration in Linear Bandits under Information Gap
-  - Huazheng Wang, Haifeng Xu, **Chuanhao Li**, Zhiyuan Liu, Hongning Wang
-  - [\[paper\]](https://arxiv.org/abs/2104.03860)
 
 ### 2021
-- [AISTATS'21] Unifying Clustered and Non-stationary Bandits
-  - **Chuanhao Li**, Qingyun Wu, Hongning Wang
-  - [\[paper\]](http://proceedings.mlr.press/v130/li21c) [\[code\]](https://github.com/cyrilli/DyClu)
+- [to appear] Asynchronous Upper Confidence Bound Algorithms for Federated Linear Bandits
+  - **Chuanhao Li**, Hongning Wang
 - [SIGIR'21] When and Whom to Collaborate with in a Changing Environment: A Collaborative Dynamic Bandit Solution
   - **Chuanhao Li**, Qingyun Wu, Hongning Wang
   - [\[paper\]](https://dl.acm.org/doi/10.1145/3404835.3462852) [\[code\]](https://github.com/cyrilli/CoDBand)
+- [arXiv'21] Incentivizing Exploration in Linear Bandits under Information Gap
+  - Huazheng Wang, Haifeng Xu, **Chuanhao Li**, Zhiyuan Liu, Hongning Wang
+  - [\[paper\]](https://arxiv.org/abs/2104.03860)
+- [AISTATS'21] Unifying Clustered and Non-stationary Bandits
+  - **Chuanhao Li**, Qingyun Wu, Hongning Wang
+  - [\[paper\]](http://proceedings.mlr.press/v130/li21c) [\[code\]](https://github.com/cyrilli/DyClu)
 
 ## **Employment**
 - [Summer 2020] Data Scientist Intern, Walmart Labs
