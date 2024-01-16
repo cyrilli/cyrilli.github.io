@@ -10,15 +10,18 @@ permalink: /publication/
 More information about my work can be found on [\[Google Scholar\]](https://scholar.google.com/citations?user=w2ShljkAAAAJ&hl=en&oi=ao)
 
 # Preprints
-- **Communication-Efficient Federated Non-Linear Bandit Optimization**\
-  <ins>Chuanhao Li</ins>\*, Chong Liu\*, Yu-Xiang Wang\
-  arXiv 2023 [\[paper\]](https://arxiv.org/abs/2311.01695)
 - **Pure Exploration in Asynchronous Federated Bandits**\
   Zichen Wang, <ins>Chuanhao Li</ins>, Chenyu Song, Lianghui Wang, Quanquan Gu, Huazheng Wang\
   arXiv 2023 [\[paper\]](https://arxiv.org/abs/2310.11015)
 
 # Publications
 ## Sequential decision making & algorithmic game theory
+- **Incentivized Truthful Communication for Federated Bandits**\
+  Zhepei Wei\*, <ins>Chuanhao Li</ins>\*, Haifeng Xu, Hongning Wang\
+  ICLR 2024
+- **Communication-Efficient Federated Non-Linear Bandit Optimization**\
+  <ins>Chuanhao Li</ins>\*, Chong Liu\*, Yu-Xiang Wang\
+  ICLR 2024 [\[paper\]](https://arxiv.org/abs/2311.01695)
 - **Rethinking Incentives in Recommender Systems: Are Monotone Rewards Always Beneficial?**\
   Fan Yao, <ins>Chuanhao Li</ins>, Karthik Abinav Sankararaman, Yiming Liao, Yan Zhu, Qifan Wang, Hongning Wang, Haifeng Xu\
   NeurIPS 2023 [\[paper\]](https://arxiv.org/abs/2306.07893)
