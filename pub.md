@@ -10,6 +10,9 @@ permalink: /publication/
 More information about my work can be found on [\[Google Scholar\]](https://scholar.google.com/citations?user=w2ShljkAAAAJ&hl=en&oi=ao)
 
 # Preprints
+- **Human vs. Generative AI in Content Creation Competition: Symbiosis or Conflict?**
+  Fan Yao, <ins>Chuanhao Li</ins>, Denis Nekipelov, Hongning Wang, Haifeng Xu\
+  arXiv 2024 [\[paper\]](https://arxiv.org/abs/2402.15467)
 - **Pure Exploration in Asynchronous Federated Bandits**\
   Zichen Wang, <ins>Chuanhao Li</ins>, Chenyu Song, Lianghui Wang, Quanquan Gu, Huazheng Wang\
   arXiv 2023 [\[paper\]](https://arxiv.org/abs/2310.11015)
