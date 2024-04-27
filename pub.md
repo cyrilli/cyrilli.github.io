@@ -13,15 +13,15 @@ More information about my work can be found on [\[Google Scholar\]](https://scho
 - **Human vs. Generative AI in Content Creation Competition: Symbiosis or Conflict?**\
   Fan Yao, <ins>Chuanhao Li</ins>, Denis Nekipelov, Hongning Wang, Haifeng Xu\
   arXiv 2024 [\[paper\]](https://arxiv.org/abs/2402.15467)
-- **Pure Exploration in Asynchronous Federated Bandits**\
-  Zichen Wang, <ins>Chuanhao Li</ins>, Chenyu Song, Lianghui Wang, Quanquan Gu, Huazheng Wang\
-  arXiv 2023 [\[paper\]](https://arxiv.org/abs/2310.11015)
 
 # Publications
 ## Sequential decision making & algorithmic game theory
+- **Pure Exploration in Asynchronous Federated Bandits**\
+  Zichen Wang, <ins>Chuanhao Li</ins>, Chenyu Song, Lianghui Wang, Quanquan Gu, Huazheng Wang\
+  UAI 2024 [\[paper\]](https://arxiv.org/abs/2310.11015)
 - **Incentivized Truthful Communication for Federated Bandits**\
   Zhepei Wei\*, <ins>Chuanhao Li</ins>\*, Haifeng Xu, Hongning Wang\
-  ICLR 2024
+  ICLR 2024 [\[paper\]](https://arxiv.org/abs/2402.04485)
 - **Communication-Efficient Federated Non-Linear Bandit Optimization**\
   <ins>Chuanhao Li</ins>\*, Chong Liu\*, Yu-Xiang Wang\
   ICLR 2024 [\[paper\]](https://arxiv.org/abs/2311.01695)
