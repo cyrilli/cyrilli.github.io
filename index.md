@@ -11,7 +11,7 @@ I am a Postdoctoral Associate in the Department of Statistics & Data Science at 
 
 ## Research Interest
 I am broadly interested in machine learning, decision making and algorithmic game theory.
-Main focus of my research include: 1) LLM agent that solves single-agent and multi-agent decision making problems; 2) collaborative multi-agent contextual bandits, with consideration of task heterogeneity, non-stationary reward distribution, privacy and communication efficiency, and incentive mechanism for collaboration; 3) non-cooperative games modeling competition among content creators on recommendation platforms.
+Main focus of my research include: 1) LLM agent that solves single-agent and multi-agent decision making problems; 2) collaborative multi-agent contextual bandits, with consideration of task heterogeneity, non-stationary reward distribution, communication efficiency, and incentive mechanism for collaboration; 3) non-cooperative games modeling competition among content creators on recommendation platforms.
 
 <!-- **\*More about me**: [Curriculum Vitae](https://cyrilli.github.io/CV.pdf) -->
 
