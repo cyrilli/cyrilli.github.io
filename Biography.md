@@ -23,10 +23,8 @@ permalink: /biography/
   - ACM Transactions on Intelligent Systems and Technology (TIST)
 
 ## Honors & Awards
-- NeurIPS Scholar Award, 2023
 - ICLR Notable Reviewer (62 out of 5k+), 2023
 - AISTATS Top Reviewer (Top 10%), 2023
-- NeurIPS Scholar Award, 2022
 - Carlos and Esther Farrar Fellowship Award, UVA, 2021
 - National Scholarship for Undergraduate Student, Ministry of Education of China, 2015
 - CSC Scholarship for Undergraduate Exchange Program, China Scholarship Council, 2015
