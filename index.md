@@ -6,13 +6,12 @@ published: true
 
  
 ## About Me
-I am a Postdoctoral Associate in the Department of Statistics & Data Science at Yale University, working with Professor Zhuoran Yang.
-I obtained my PhD degree in Computer Science from University of Virginia, advised by Professor Hongning Wang.
+I am a Postdoctoral Associate in the Department of Statistics & Data Science at Yale University, working with Professor Zhuoran Yang and Professor Dirk Bergemann. I obtained my PhD degree in Computer Science from University of Virginia, advised by Professor Hongning Wang.
 <!--my bachelor's and master's degree from the School of Mechatronics Engineering at Harbin Institute of Technology.-->
 
 ## Research Interest
-I am broadly interested in machine learning and decision making, with a special focus on online learning problems like contextual multi-armed bandits.
-My current research interest is in designing provably efficient solutions to multi-agent contextual bandits, with consideration of collaborative learning, non-stationary reward distribution, privacy and communication efficiency under distributed setting.
+I am broadly interested in machine learning, decision making and algorithmic game theory.
+Main focus of my research include: 1) LLM agent that solves single-agent and multi-agent decision making problems; 2) collaborative multi-agent contextual bandits, with consideration of task heterogeneity, non-stationary reward distribution, privacy and communication efficiency, and incentive mechanism for collaboration; 3) non-cooperative games modeling competition among content creators on recommendation platforms.
 
 <!-- **\*More about me**: [Curriculum Vitae](https://cyrilli.github.io/CV.pdf) -->
 
