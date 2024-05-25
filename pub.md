@@ -10,12 +10,15 @@ permalink: /publication/
 More information about my work can be found on [\[Google Scholar\]](https://scholar.google.com/citations?user=w2ShljkAAAAJ&hl=en&oi=ao)
 
 # Preprints
-- **Human vs. Generative AI in Content Creation Competition: Symbiosis or Conflict?**\
-  Fan Yao, <ins>Chuanhao Li</ins>, Denis Nekipelov, Hongning Wang, Haifeng Xu\
-  arXiv 2024 [\[paper\]](https://arxiv.org/abs/2402.15467)
+- **STRIDE: A Tool-Assisted LLM Agent Framework for Strategic and Interactive Decision-Making**\
+  <ins>Chuanhao Li</ins>, Runhan Yang, Tiankai Li, Milad Bafarassat, Kourosh Sharifi, Dirk Bergemann, and Zhuoran Yang\
+  arxiv 2024
 
 # Publications
 ## Sequential decision making & algorithmic game theory
+- **Human vs. Generative AI in Content Creation Competition: Symbiosis or Conflict?**\
+  Fan Yao, <ins>Chuanhao Li</ins>, Denis Nekipelov, Hongning Wang, Haifeng Xu\
+  ICML 2024 [\[paper\]](https://arxiv.org/abs/2402.15467)
 - **Pure Exploration in Asynchronous Federated Bandits**\
   Zichen Wang, <ins>Chuanhao Li</ins>, Chenyu Song, Lianghui Wang, Quanquan Gu, Huazheng Wang\
   UAI 2024 [\[paper\]](https://arxiv.org/abs/2310.11015)
@@ -25,6 +28,9 @@ More information about my work can be found on [\[Google Scholar\]](https://scho
 - **Communication-Efficient Federated Non-Linear Bandit Optimization**\
   <ins>Chuanhao Li</ins>\*, Chong Liu\*, Yu-Xiang Wang\
   ICLR 2024 [\[paper\]](https://arxiv.org/abs/2311.01695)
+- **Federated Linear Contextual Bandits with Heterogeneous Clients**\
+  Ethan Blaser, <ins>Chuanhao Li</ins>, Hongning Wang\
+  AISTATS 2024 [\[paper\]](https://arxiv.org/abs/2403.00116)
 - **Rethinking Incentives in Recommender Systems: Are Monotone Rewards Always Beneficial?**\
   Fan Yao, <ins>Chuanhao Li</ins>, Karthik Abinav Sankararaman, Yiming Liao, Yan Zhu, Qifan Wang, Hongning Wang, Haifeng Xu\
   NeurIPS 2023 [\[paper\]](https://arxiv.org/abs/2306.07893)
