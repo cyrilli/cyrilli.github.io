@@ -12,7 +12,7 @@ More information about my work can be found on [\[Google Scholar\]](https://scho
 # Preprints
 - **STRIDE: A Tool-Assisted LLM Agent Framework for Strategic and Interactive Decision-Making**\
   <ins>Chuanhao Li</ins>, Runhan Yang, Tiankai Li, Milad Bafarassat, Kourosh Sharifi, Dirk Bergemann, and Zhuoran Yang\
-  Arxiv 2024 [\[paper\]](https://arxiv.org/abs/2405.16376)
+  Arxiv 2024 [\[paper\]](https://arxiv.org/abs/2405.16376) [\[code\]](https://github.com/cyrilli/STRIDE)
 
 # Publications
 ## Sequential decision making & algorithmic game theory
