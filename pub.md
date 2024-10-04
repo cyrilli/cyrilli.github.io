@@ -9,13 +9,15 @@ permalink: /publication/
 <a name="pub"></a>
 More information about my work can be found on [\[Google Scholar\]](https://scholar.google.com/citations?user=w2ShljkAAAAJ&hl=en&oi=ao)
 
-# Preprints
+# Publications
+## Applications of foundation models
 - **STRIDE: A Tool-Assisted LLM Agent Framework for Strategic and Interactive Decision-Making**\
   <ins>Chuanhao Li</ins>, Runhan Yang, Tiankai Li, Milad Bafarassat, Kourosh Sharifi, Dirk Bergemann, and Zhuoran Yang\
   arXiv [\[paper\]](https://arxiv.org/abs/2405.16376) [\[code\]](https://github.com/cyrilli/STRIDE)\
   INFORMS Workshop on Market Design @EC 2024, AutoRL Workshop @ICML 2024
-
-# Publications
+- **PrefPaint: Aligning Image Inpainting Diffusion Model with Human Preference**\
+  Kendong Liu*, Zhiyu Zhu*, Chuanhao Li*, Hui Liu, Huanqiang Zeng, and Junhui Hou\
+  NeurIPS 2025
 ## Sequential decision making & algorithmic game theory
 - **Human vs. Generative AI in Content Creation Competition: Symbiosis or Conflict?**\
   Fan Yao, <ins>Chuanhao Li</ins>, Denis Nekipelov, Hongning Wang, Haifeng Xu\
