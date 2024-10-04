@@ -18,6 +18,7 @@ More information about my work can be found on [\[Google Scholar\]](https://scho
 - **PrefPaint: Aligning Image Inpainting Diffusion Model with Human Preference**\
   Kendong Liu*, Zhiyu Zhu*, Chuanhao Li*, Hui Liu, Huanqiang Zeng, and Junhui Hou\
   NeurIPS 2025
+  
 ## Sequential decision making & algorithmic game theory
 - **Human vs. Generative AI in Content Creation Competition: Symbiosis or Conflict?**\
   Fan Yao, <ins>Chuanhao Li</ins>, Denis Nekipelov, Hongning Wang, Haifeng Xu\
