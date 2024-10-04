@@ -23,6 +23,9 @@ More information about my work can be found on [\[Google Scholar\]](https://scho
 - **Human vs. Generative AI in Content Creation Competition: Symbiosis or Conflict?**\
   Fan Yao, <ins>Chuanhao Li</ins>, Denis Nekipelov, Hongning Wang, Haifeng Xu\
   ICML 2024 [\[paper\]](https://arxiv.org/abs/2402.15467)
+- **User welfare optimization in recommender systems with competing content creators**\
+  Fan Yao, Yiming Liao, Mingzhe Wu, <ins>Chuanhao Li</ins>, Yan Zhu, James Yang, Jingzhou Liu, Qifan Wang, Haifeng Xu, Hongning Wang\
+  KDD 2024 [\[paper\]](https://dl.acm.org/doi/abs/10.1145/3637528.3672021)
 - **Pure Exploration in Asynchronous Federated Bandits**\
   Zichen Wang, <ins>Chuanhao Li</ins>, Chenyu Song, Lianghui Wang, Quanquan Gu, Huazheng Wang\
   UAI 2024 [\[paper\]](https://arxiv.org/abs/2310.11015)
