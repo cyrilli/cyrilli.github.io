@@ -23,6 +23,7 @@ permalink: /biography/
   - ACM Transactions on Intelligent Systems and Technology (TIST)
 
 ## Honors & Awards
+- Tony Massini Postdoctoral Fellowship in Data Science, Yale, 2024
 - ICLR Notable Reviewer (62 out of 5k+), 2023
 - AISTATS Top Reviewer (Top 10%), 2023
 - Carlos and Esther Farrar Fellowship Award, UVA, 2021
