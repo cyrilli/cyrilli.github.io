@@ -17,7 +17,7 @@ More information about my work can be found on [\[Google Scholar\]](https://scho
   INFORMS Workshop on Market Design @EC 2024, AutoRL Workshop @ICML 2024
 - **PrefPaint: Aligning Image Inpainting Diffusion Model with Human Preference**\
   Kendong Liu\*, Zhiyu Zhu\*, <ins>Chuanhao Li</ins>\*, Hui Liu, Huanqiang Zeng, and Junhui Hou\
-  NeurIPS 2025 [\[project page\]](https://prefpaint.github.io/)
+  NeurIPS 2024 [\[project page\]](https://prefpaint.github.io/)
   
 ## Sequential decision making & algorithmic game theory
 - **Human vs. Generative AI in Content Creation Competition: Symbiosis or Conflict?**\
