@@ -15,17 +15,16 @@ permalink: /biography/
 - **B.S.** in Mechanical Engineering & **B.A.** in English @ [Harbin Institute of Technology](http://en.hit.edu.cn/) (2012-2016)
 - Exchange student @ [Monash University](https://www.monash.edu/) (2015) -->
 
-<!--
-## Services
-- **Volunteer**
-  - KDD'20
+## Professional Services
 - **Conference Reviewer**
+  - ICML, NeurIPS, ICLR, AISTATS, IJCAI
   - WSDM, KDD
-  - AISTATS, ICML, NeurIPS, ICLR, IJCAI
   - GAMESEC
 - **Journal Reviewer**
-  - IEEE Transactions on Systems, Man and Cybernetics: Systems (SMCA)
-  - ACM Transactions on Intelligent Systems and Technology (TIST) -->
+  - IEEE Transactions on Systems, Man and Cybernetics: Systems
+  - ACM Transactions on Intelligent Systems and Technology
+- **Volunteer**
+  - KDD'20
 
 ## Honors & Awards
 - Tony Massini Postdoctoral Fellowship in Data Science, Yale, 2024
