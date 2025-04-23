@@ -5,8 +5,8 @@ permalink: /biography/
 ---
 
 ## Experience
-- Intern, Walmart Labs, Summer 2020
-- Intern, General Motors China Science Lab, China, Summer 2017
+- Research Intern, Walmart Labs, Summer 2020
+- Research Intern, General Motors China Science Lab, China, Summer 2017
 - Exchange Student, Monash University, Australia, Spring 2015
 
 <!-- ## **Education**
