@@ -4,6 +4,10 @@ title: Biography
 permalink: /biography/
 ---
 
+## Experience
+- Intern, Walmart Labs, Summer 2020
+- Intern, General Motors China Science Lab, China, Summer 2017
+- Exchange Student, Monash University, Australia, Spring 2015
 
 <!-- ## **Education**
 - **Ph.D.** in Computer Science @ [Univerisity of Virginia](https://engineering.virginia.edu/departments/computer-science) (2018-Present) 
@@ -35,16 +39,12 @@ permalink: /biography/
 <!--   - Graduation with Distinction, HIT, 2016 -->
 <!--   - Outstanding Undergrad Thesis Award, HIT, 2016 -->
 
+<!--
 ## Teaching
 - Teaching Assistant, CS6501-004 Reinforcement Learning (Graduate Level), UVA, Fall 2020
 - Teaching Assistant, CS6501-001 Software Analysis and Applications (Graduate Level), UVA, Spring 2020
 - Teaching Assistant, CS2501-100 Data Structures and Algorithms I (Undergraduate Level), UVA, Fall 2019
-
-<!--## Experience
-- Data Scientist Intern, Walmart Labs, Summer 2020
-- Research Intern, General Motors China Science Lab, China, Summer 2017
-- Exchange Student, Monash University, Australia, Spring 2015  -->
-
+-->
 <!-- - : Online Grocery User Sequential Modeling -->
 <!-- - : Visual Scene Understanding for Autonomous Vehicles\ -->
 
