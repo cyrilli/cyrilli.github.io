@@ -10,8 +10,7 @@ I am a Postdoctoral Associate in the Department of Statistics & Data Science at 
 <!--my bachelor's and master's degree from the School of Mechatronics Engineering at Harbin Institute of Technology.-->
 
 ## Research Interest
-I am broadly interested in machine learning, decision making and algorithmic game theory.
-Main focus of my research include: 1) LLM agents in single-agent and multi-agent decision making problems; 2) collaborative multi-agent contextual bandits, with consideration of task heterogeneity, non-stationary reward distribution, communication efficiency in distributed system, and incentive mechanism for collaboration; 3) non-cooperative games modeling competition among content creators on recommendation platforms.
+I am broadly interested in machine learning, decision making and algorithmic game theory. Main focus of my research include: 1) LLM agents for optimization and decision-making; 2) collaborative multi-agent bandit/reinforcement learning, with consideration of task heterogeneity, non-stationary reward distribution, communication efficiency, and incentivized collaboration; 3) non-cooperative games modeling recommendation systems.
 
 <!-- **\*More about me**: [Curriculum Vitae](https://cyrilli.github.io/CV.pdf) -->
 
