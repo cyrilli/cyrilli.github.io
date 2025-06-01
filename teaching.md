@@ -12,3 +12,5 @@ permalink: /teaching/
 - CS6501-004 Reinforcement Learning, University of Virginia, Fall 2020
 - CS6501-001 Software Analysis and Applications, University of Virginia, Spring 2020
 - CS2501-100 Data Structures and Algorithms I, University of Virginia, Fall 2019
+
+<div class="masthead" style="margin-top: -25px;margin-bottom: -15;"> </div>

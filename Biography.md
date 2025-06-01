@@ -37,3 +37,5 @@ permalink: /biography/
 - Outstanding Undergrad Thesis Award, Harbin Institute of Technology, 2016
 - National Scholarship, Ministry of Education of China, 2015
 - CSC Scholarship for Undergrad Exchange Program, China Scholarship Council, 2015
+
+<div class="masthead" style="margin-top: -25px;margin-bottom: -15;"> </div>
