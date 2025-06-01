@@ -9,10 +9,11 @@ published: true
 I am a Postdoctoral Associate in the Department of Statistics & Data Science at Yale University, working with Professors Zhuoran Yang and Dirk Bergemann. I received my Ph.D. in Computer Science from the University of Virginia, advised by Professor Hongning Wang. Prior to that, I earned a B.S. in Mechanical Engineering, a B.A. in English, and an M.S. in Mechatronics Engineering from Harbin Institute of Technology.
 
 ## Research Interest
-I am interested in multi‑agent systems that reason, learn, and interact in uncertain and resource‑constrained settings—whether the agents’ individual objectives are aligned or not. My work blends reinforcement learning, optimization, and algorithmic game theory to create:
+I am interested in multi‑agent systems that reason, learn, and interact in dynamic and uncertain settings—whether the agents’ individual objectives are aligned or not. My work blends reinforcement learning, optimization, and algorithmic game theory to create:
 - communication‑efficient, collaborative learning protocols that reduce sample and bandwidth costs,
 - incentive‑compatible mechanisms that align self‑interested agents with system goals, and
 - hierarchical decision architectures augmented with large language models, leveraging common-sense knowledge to interpret unstructured inputs and adapt to novel scenarios.
+
 These methods enable robust, adaptive cooperation in multi-agent systems—such as recommender systems and cyber-physical systems—ensuring sample and communication efficiency, as well as incentive awareness, under unstructured conditions.
 
 ## Selected Publications
