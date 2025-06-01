@@ -6,8 +6,8 @@ permalink: /biography/
 
 ## Work Experience
 - Postdoctoral Associate, Department of Statistics and Data Science at Yale University, Oct 2023 - Jun 2025
-- Research Intern, Walmart Labs, Summer 2020
-- Research Intern, General Motors China Science Lab, Summer 2017
+- Research Intern, Walmart Labs, Jun 2020 - Aug 2020
+- Research Intern, General Motors China Science Lab, Jun 2017 - Aug 2017
 
 <div class="masthead" style="margin-top: -25px;margin-bottom: -15;"> </div>
 
