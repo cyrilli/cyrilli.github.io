@@ -4,16 +4,16 @@ title: Biography
 permalink: /biography/
 ---
 
-## Experience
+## Work Experience
+- Postdoctoral Associate, Department of Statistics and Data Science @ Yale University, Oct 2023 - Jun 2025
 - Research Intern, Walmart Labs, Summer 2020
-- Research Intern, General Motors China Science Lab, China, Summer 2017
-- Exchange Student, Monash University, Australia, Spring 2015
+- Research Intern, General Motors China Science Lab, Summer 2017
 
-<!-- ## **Education**
-- **Ph.D.** in Computer Science @ [Univerisity of Virginia](https://engineering.virginia.edu/departments/computer-science) (2018-Present) 
-- **M.S.** in Mechatronics Engineering @ [Harbin Institute of Technology](http://en.hit.edu.cn/) (2016-2018)
-- **B.S.** in Mechanical Engineering & **B.A.** in English @ [Harbin Institute of Technology](http://en.hit.edu.cn/) (2012-2016)
-- Exchange student @ [Monash University](https://www.monash.edu/) (2015) -->
+## Education
+- Ph.D. in Computer Science @ Univerisity of Virginia, Aug 2018 - Aug 2023 
+- M.S. in Mechatronics Engineering @ Harbin Institute of Technology, Sep 2016 - Jul 2018
+- B.S. in Mechanical Engineering & B.A. in English @ Harbin Institute of Technology, Aug 2012 - Jul 2016
+- Exchange Student, Monash University, Australia, Feb 2015 - Jun 2015
 
 ## Professional Services
 - **Conference Reviewer**
@@ -21,32 +21,19 @@ permalink: /biography/
   - WSDM, KDD
   - GAMESEC
 - **Journal Reviewer**
+  - Nature Human Behaviour
   - IEEE Transactions on Systems, Man and Cybernetics: Systems
   - ACM Transactions on Intelligent Systems and Technology
 - **Volunteer**
   - KDD'20
+- **Recognition**
+  - ICLR Notable Reviewer (62 out of 5k+), 2023
+  - AISTATS Top Reviewer (Top 10%), 2023
 
-## Honors & Awards
-- Tony Massini Postdoctoral Fellowship in Data Science, Yale, 2024
-- ICLR Notable Reviewer (62 out of 5k+), 2023
-- AISTATS Top Reviewer (Top 10%), 2023
-- Carlos and Esther Farrar Fellowship Award, UVA, 2021
-
-<!--   - National Scholarship for Undergraduate Student, Ministry of Education of China, 2015 -->
-<!--   - CSC Scholarship for Undergraduate Exchange Program, China Scholarship Council, 2015 -->
-<!--   - Academic Award for Graduate Student, HIT, 2016 -->
-<!--   - Graduation with Distinction, HIT, 2016 -->
-<!--   - Outstanding Undergrad Thesis Award, HIT, 2016 -->
-
-<!--
-## Teaching
-- Teaching Assistant, CS6501-004 Reinforcement Learning (Graduate Level), UVA, Fall 2020
-- Teaching Assistant, CS6501-001 Software Analysis and Applications (Graduate Level), UVA, Spring 2020
-- Teaching Assistant, CS2501-100 Data Structures and Algorithms I (Undergraduate Level), UVA, Fall 2019
--->
-<!-- - : Online Grocery User Sequential Modeling -->
-<!-- - : Visual Scene Understanding for Autonomous Vehicles\ -->
-
-
-
-
+## Honors & Fellowships
+- Tony Massini Postdoctoral Fellowship in Data Science, Yale University, 2024
+- Carlos and Esther Farrar Fellowship, Univerisity of Virginia, 2021
+- Graduation with Distinction, Harbin Institute of Technology, 2016
+- Outstanding Undergrad Thesis Award, Harbin Institute of Technology, 2016
+- National Scholarship, Ministry of Education of China, 2015
+- CSC Scholarship for Undergrad Exchange Program, China Scholarship Council, 2015
