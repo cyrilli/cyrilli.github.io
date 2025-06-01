@@ -6,7 +6,8 @@ permalink: /publications/
 
 
 <a name="pub"></a>
-For the most up-to-date list of publications, please visit [\[Google Scholar\]](https://scholar.google.com/citations?user=w2ShljkAAAAJ&hl=en&oi=ao)
+For the most up-to-date list of publications, please visit my [\[Google Scholar Profile\]](https://scholar.google.com/citations?user=w2ShljkAAAAJ&hl=en&oi=ao)
+\* denotes equal contribution.
 
 ## Bandit Learning and Communication Strategies in Multi-Agent Systems
 - **Pure Exploration in Asynchronous Federated Bandits**\
