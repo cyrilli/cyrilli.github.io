@@ -9,11 +9,15 @@ permalink: /biography/
 - Research Intern, Walmart Labs, Summer 2020
 - Research Intern, General Motors China Science Lab, Summer 2017
 
+<div class="masthead" style="margin-top: -25px;margin-bottom: -15;"> </div>
+
 ## Education
 - Ph.D. in Computer Science @ Univerisity of Virginia, Aug 2018 - Aug 2023 
 - M.S. in Mechatronics Engineering @ Harbin Institute of Technology, Sep 2016 - Jul 2018
 - B.S. in Mechanical Engineering & B.A. in English @ Harbin Institute of Technology, Aug 2012 - Jul 2016
 - Exchange Student, Monash University, Australia, Feb 2015 - Jun 2015
+
+<div class="masthead" style="margin-top: -25px;margin-bottom: -15;"> </div>
 
 ## Professional Services
 - **Conference Reviewer**
@@ -30,6 +34,8 @@ permalink: /biography/
   - ICLR Notable Reviewer (62 out of 5k+), 2023
   - AISTATS Top Reviewer (Top 10%), 2023
 
+<div class="masthead" style="margin-top: -25px;margin-bottom: -15;"> </div>
+
 ## Honors & Fellowships
 - Tony Massini Postdoctoral Fellowship in Data Science, Yale University, 2024
 - Carlos and Esther Farrar Fellowship, Univerisity of Virginia, 2021
@@ -37,5 +43,3 @@ permalink: /biography/
 - Outstanding Undergrad Thesis Award, Harbin Institute of Technology, 2016
 - National Scholarship, Ministry of Education of China, 2015
 - CSC Scholarship for Undergrad Exchange Program, China Scholarship Council, 2015
-
-<div class="masthead" style="margin-top: -25px;margin-bottom: -15;"> </div>

@@ -43,6 +43,8 @@ For the most up-to-date list of publications, please visit my [\[Google Scholar 
   <ins>Chuanhao Li</ins>, Qingyun Wu, Hongning Wang\
   AISTATS 2021 [\[paper\]](https://arxiv.org/abs/2009.02463) [\[code\]](https://github.com/cyrilli/DyClu)
 
+<div class="masthead" style="margin-top: -25px;margin-bottom: -15;"> </div>
+
 ## Incentive Design and Strategic Interactions in Multi-Agent Systems
 - **Incentivized Truthful Communication for Federated Bandits**\
   Zhepei Wei\*, <ins>Chuanhao Li</ins>\*, Haifeng Xu, Hongning Wang\
@@ -65,6 +67,8 @@ For the most up-to-date list of publications, please visit my [\[Google Scholar 
 - **Incentivizing Exploration in Linear Bandits under Information Gap**\
   Huazheng Wang, Haifeng Xu, <ins>Chuanhao Li</ins>, Zhiyuan Liu, Hongning Wang\
   RecSys 2023 [\[paper\]](https://arxiv.org/abs/2104.03860)
+
+<div class="masthead" style="margin-top: -25px;margin-bottom: -15;"> </div>
 
 ## Applications of Deep Learning and Foundation Models
 - **STRIDE: A Tool-Assisted LLM Agent Framework for Strategic and Interactive Decision-Making**\
@@ -92,7 +96,5 @@ For the most up-to-date list of publications, please visit my [\[Google Scholar 
 - **Bearings Fault Diagnosis based on Convolutional Neural Networks with 2-D Representation of Vibration Signals as Input**\
   Wei Zhang, Gaoliang Peng, <ins>Chuanhao Li</ins>\
   ICMME 2016 [\[paper\]](https://www.matec-conferences.org/articles/matecconf/abs/2017/09/matecconf_icmme2017_13001/matecconf_icmme2017_13001.html)
-
-<div class="masthead" style="margin-top: -25px;margin-bottom: -15;"> </div>
 
 \* denotes equal contribution.
