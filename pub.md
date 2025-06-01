@@ -7,7 +7,6 @@ permalink: /publications/
 
 <a name="pub"></a>
 For the most up-to-date list of publications, please visit my [\[Google Scholar Profile\]](https://scholar.google.com/citations?user=w2ShljkAAAAJ&hl=en&oi=ao)
-\* denotes equal contribution.
 
 ## Bandit Learning and Communication Strategies in Multi-Agent Systems
 - **Pure Exploration in Asynchronous Federated Bandits**\
@@ -95,3 +94,5 @@ For the most up-to-date list of publications, please visit my [\[Google Scholar 
   ICMME 2016 [\[paper\]](https://www.matec-conferences.org/articles/matecconf/abs/2017/09/matecconf_icmme2017_13001/matecconf_icmme2017_13001.html)
 
 <div class="masthead" style="margin-top: -25px;margin-bottom: -15;"> </div>
+
+\* denotes equal contribution.
