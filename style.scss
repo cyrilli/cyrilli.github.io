@@ -250,14 +250,34 @@ img {
   }
 }
 
+// .site-description {
+//   margin: -8px 0 1px 0;
+//   color: $gray;
+//   font-size: 18px;
+
+//   @include mobile {
+//     margin: 3px 0;
+//     font-size: 16px;
+//   }
+// }
+
 .site-description {
-  margin: -8px 0 1px 0;
   color: $gray;
   font-size: 18px;
+  margin: 0 0 2px 0; // Default margin for these lines: top, right, bottom, left
+
+  // Apply specific top margin only to the first description line after the site name
+  .site-name + & {
+    margin-top: -8px;
+  }
 
   @include mobile {
-    margin: 3px 0;
     font-size: 16px;
+    margin-bottom: 1px;
+
+    .site-name + & {
+      margin-top: 3px; // Adjusted top margin for mobile for the first line
+    }
   }
 }
 
