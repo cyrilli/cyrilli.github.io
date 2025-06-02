@@ -12,7 +12,7 @@ permalink: /biography/
 <div class="masthead" style="margin-top: -25px;margin-bottom: -15;"> </div>
 
 ## Education
-- Ph.D. in Computer Scienc, Univerisity of Virginia, Aug 2018 - Aug 2023 
+- Ph.D. in Computer Science, Univerisity of Virginia, Aug 2018 - Aug 2023 
 - M.S. in Mechatronics Engineering, Harbin Institute of Technology, Sep 2016 - Jul 2018
 - B.S. in Mechanical Engineering & B.A. in English, Harbin Institute of Technology, Aug 2012 - Jul 2016
 - Exchange Student, Monash University, Feb 2015 - Jun 2015
