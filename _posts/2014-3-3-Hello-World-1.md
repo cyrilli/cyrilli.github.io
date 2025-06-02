@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: Test 1 You're up and running!
 category: Notes
 illustration: /images/config.png
 ---

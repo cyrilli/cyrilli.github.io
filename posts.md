@@ -4,6 +4,8 @@ title: Posts
 permalink: /posts/
 ---
 
+This page presents a collection of articles, project updates, and technical notes.
+
 {% assign posts_by_category = site.posts | group_by: "category" %}
 
 {% for category in posts_by_category %}
@@ -24,4 +26,5 @@ permalink: /posts/
       </article>
     {% endfor %}
   </div>
+  <div class="masthead" style="margin-top: -25px;margin-bottom: -15;"> </div>
 {% endfor %}
