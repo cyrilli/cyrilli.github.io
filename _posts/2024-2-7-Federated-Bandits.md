@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Test 1 You're up and running!
-category: Notes
+title: Regret Minimization, Communication Efficiency and Incentive Compatibility in Federated Setting
+category: Projects
 illustration:
 ---
 

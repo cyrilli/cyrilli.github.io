@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Test 2 You're up and running!
+title: Deep Learning Methods for Bearing Fault Detection
 category: Projects
-illustration: /images/config.png
+illustration:
 ---
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
