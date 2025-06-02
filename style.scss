@@ -384,12 +384,9 @@ nav {
     bottom: 0; /* Align to the bottom */
     right: 0; /* Align to the right */
   }
+  padding-bottom: 20px; /* Add some padding to the bottom */
 }
 
-article.post {
-  position: relative; /* Add position relative to the article */
-  padding-bottom: 2em; /* Ensure space for the read more link */
-}
 
 .wrapper-footer {
   margin-top: 50px;
