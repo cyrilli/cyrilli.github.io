@@ -22,7 +22,7 @@ This page presents a collection of articles, project updates, and technical note
             <img src="{{ site.baseurl }}{{ post.illustration }}" alt="{{ post.title }}">
           </div>
         {% endif %}
-        <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+        <!-- <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a> -->
       </article>
     {% endfor %}
   </div>
