@@ -373,26 +373,27 @@ nav {
     margin-top: 10px;
   }
 
+  // .read-more {
+  //   text-transform: uppercase;
+  //   font-size: 15px;
+  // }
   .read-more {
     text-transform: uppercase;
     font-size: 15px;
+    position: absolute; /* Position the link absolutely */
+    bottom: 0; /* Align to the bottom */
+    right: 0; /* Align to the right */
+    padding: 5px 10px; /* Add some padding for better appearance */
+    background-color: #f0f0f0; /* Add a background color */
+    border: 1px solid #ccc; /* Add a border */
+    text-decoration: none; /* Remove underline */
+    color: #333; /* Set text color */
   }
 }
 
 article.post {
   position: relative; /* Add position relative to the article */
   padding-bottom: 2em; /* Ensure space for the read more link */
-}
-
-.read-more {
-  position: absolute; /* Position the link absolutely */
-  bottom: 0; /* Align to the bottom */
-  right: 0; /* Align to the right */
-  padding: 5px 10px; /* Add some padding for better appearance */
-  background-color: #f0f0f0; /* Add a background color */
-  border: 1px solid #ccc; /* Add a border */
-  text-decoration: none; /* Remove underline */
-  color: #333; /* Set text color */
 }
 
 .wrapper-footer {
