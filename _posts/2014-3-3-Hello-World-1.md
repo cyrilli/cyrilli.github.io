@@ -2,7 +2,7 @@
 layout: post
 title: Test 1 You're up and running!
 category: Notes
-illustration: /images/config.png
+illustration:
 ---
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
