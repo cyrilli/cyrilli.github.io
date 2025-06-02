@@ -46,13 +46,16 @@ For the most up-to-date list of publications, please visit my [\[Google Scholar 
 <div class="masthead" style="margin-top: -25px;margin-bottom: -15;"> </div>
 
 ## Incentive Design and Strategic Interactions in Multi-Agent Systems
+- **Provably Efficient Algorithm for Best Scoring Rule Identification in Online Principal-Agent Information Acquisition**\
+  Zichen Wang, <ins>Chuanhao Li</ins>, Huazheng Wang\
+  ICML 2025 [\[paper\]](https://arxiv.org/abs/2505.17379)
 - **Incentivized Truthful Communication for Federated Bandits**\
   Zhepei Wei\*, <ins>Chuanhao Li</ins>\*, Haifeng Xu, Hongning Wang\
   ICLR 2024 [\[paper\]](https://arxiv.org/abs/2402.04485)
 - **Human vs. Generative AI in Content Creation Competition: Symbiosis or Conflict?**\
   Fan Yao, <ins>Chuanhao Li</ins>, Denis Nekipelov, Hongning Wang, Haifeng Xu\
   ICML 2024 [\[paper\]](https://arxiv.org/abs/2402.15467)
-- **User welfare optimization in recommender systems with competing content creators**\
+- **User Welfare Optimization in Recommender Systems with Competing Content Creators**\
   Fan Yao, Yiming Liao, Mingzhe Wu, <ins>Chuanhao Li</ins>, Yan Zhu, James Yang, Jingzhou Liu, Qifan Wang, Haifeng Xu, Hongning Wang\
   KDD 2024 [\[paper\]](https://dl.acm.org/doi/abs/10.1145/3637528.3672021)
 - **Incentivized Communication for Federated Bandits**\
@@ -84,7 +87,7 @@ For the most up-to-date list of publications, please visit my [\[Google Scholar 
 - **ACDIN: Bridging the Gap between Artificial and Real Bearing Damages for Bearing Fault Diagnosis**\
   Yuanhang Chen, Gaoliang Peng, Chaohao Xie, Wei Zhang, <ins>Chuanhao Li</ins>, Shaohui Liu\
   Neurocomputing 2018 [\[paper\]](https://www.sciencedirect.com/science/article/abs/pii/S092523121830300X)
-- **Bearing Fault Diagnosis Using Fully-connected Winner-take-all Autoencoder**\
+- **Bearing Fault Diagnosis Using Fully-Connected Winner-Take-All Autoencoder**\
   <ins>Chuanhao Li</ins>, Wei Zhang, Gaoliang Peng, Shaohui Liu\
   IEEE Access 2017 [\[paper\]](https://ieeexplore.ieee.org/abstract/document/7956142) [\[code\]](https://github.com/cyrilli/FCWTA_AE)
 - **A New Deep Learning Model for Fault Diagnosis with Good Anti-noise and Domain Adaptation Ability on Raw Vibration Signals**\

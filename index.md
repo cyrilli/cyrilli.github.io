@@ -11,12 +11,12 @@ I am a Postdoctoral Associate in the Department of Statistics & Data Science at 
 <div class="masthead" style="margin-top: -25px;margin-bottom: -15;"> </div>
 
 ## Research Interest
-I am interested in multi‑agent systems that reason, learn, and interact in dynamic and uncertain settings—whether the agents’ individual objectives are aligned or not. My work blends reinforcement learning, optimization, and algorithmic game theory to create:
-- communication‑efficient, collaborative learning protocols that reduce sample and bandwidth costs,
+I am interested in multi‑agent systems that reason, interact, and learn in dynamic and uncertain settings—whether the individual agents’ objectives are aligned or not. My work blends machine learning, optimization, and algorithmic game theory to create:
+- communication‑efficient collaborative learning protocols that reduce sample and bandwidth costs,
 - incentive‑compatible mechanisms that align self‑interested agents with system goals, and
 - hierarchical decision architectures augmented with large language models, leveraging common-sense knowledge to interpret unstructured inputs and adapt to novel scenarios.
 
-These methods enable robust, adaptive cooperation in multi-agent systems—such as recommender systems and cyber-physical systems—ensuring sample and communication efficiency, as well as incentive awareness, under unstructured conditions.
+These methods enable robust, adaptive cooperative decision-making in multi-agent systems—such as recommender systems and cyber-physical systems—ensuring sample and communication efficiency, as well as incentive awareness, under unstructured conditions.
 
 <div class="masthead" style="margin-top: -25px;margin-bottom: -15;"> </div>
 
