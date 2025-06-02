@@ -9,6 +9,9 @@ permalink: /publications/
 For the most up-to-date list of publications, please visit my [\[Google Scholar Profile\]](https://scholar.google.com/citations?user=w2ShljkAAAAJ&hl=en&oi=ao)
 
 ## Bandit Learning and Communication Strategies in Multi-Agent Systems
+- **Provably Efficient Algorithm for Best Scoring Rule Identification in Online Principal-Agent Information Acquisition**\
+  Zichen Wang, <ins>Chuanhao Li</ins>, Huazheng Wang\
+  ICML 2025 [\[paper\]](https://arxiv.org/abs/2505.17379)
 - **Pure Exploration in Asynchronous Federated Bandits**\
   Zichen Wang, <ins>Chuanhao Li</ins>, Chenyu Song, Lianghui Wang, Quanquan Gu, Huazheng Wang\
   UAI 2024 [\[paper\]](https://arxiv.org/abs/2310.11015)
