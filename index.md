@@ -6,7 +6,7 @@ published: true
 
  
 ## About
-I am a Postdoctoral Associate in the Department of Statistics & Data Science at Yale University, working with Professors Zhuoran Yang and Dirk Bergemann. I received my Ph.D. in Computer Science from the University of Virginia, advised by Professor Hongning Wang. Prior to that, I earned a B.S. in Mechanical Engineering, a B.A. in English, and an M.S. in Mechatronics Engineering from Harbin Institute of Technology.
+I am a Postdoctoral Associate in the Department of Statistics & Data Science at Yale University, working with Professors Zhuoran Yang and Dirk Bergemann. I received my Ph.D. in Computer Science from the University of Virginia, advised by Professor Hongning Wang.
 
 <div class="masthead" style="margin-top: -25px;margin-bottom: -15;"> </div>
 
