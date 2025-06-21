@@ -11,6 +11,14 @@ permalink: /biography/
 
 <div class="masthead" style="margin-top: -25px;margin-bottom: -15;"> </div>
 
+## Education
+- Ph.D. in Computer Science, Univerisity of Virginia, Aug 2018 - Aug 2023 
+- M.S. in Mechatronics Engineering, Harbin Institute of Technology, Sep 2016 - Jul 2018
+- B.S. in Mechanical Engineering & B.A. in English, Harbin Institute of Technology, Aug 2012 - Jul 2016
+- Exchange Student, Monash University, Feb 2015 - Jun 2015
+
+<div class="masthead" style="margin-top: -25px;margin-bottom: -15;"> </div>
+
 ## Professional Services
 - **Conference Reviewer**
   - ICML, NeurIPS, ICLR, AISTATS, IJCAI
@@ -31,5 +39,7 @@ permalink: /biography/
 ## Honors & Fellowships
 - Tony Massini Postdoctoral Fellowship in Data Science, Yale University, 2024
 - Carlos and Esther Farrar Fellowship, Univerisity of Virginia, 2021
+- Graduation with Distinction, Harbin Institute of Technology, 2016
+- Outstanding Undergrad Thesis Award, Harbin Institute of Technology, 2016
 - National Scholarship, Ministry of Education of China, 2015
 - CSC Scholarship for Undergrad Exchange Program, China Scholarship Council, 2015
