@@ -6,7 +6,7 @@ published: true
 
  
 ## About
-I’m currently a Postdoctoral Associate in the Department of Statistics and Data Science at Yale University, working with Professors Zhuoran Yang and Dirk Bergemann. I completed my Ph.D. in Computer Science at the University of Virginia, where I was advised by Professor Hongning Wang.
+I am a Tenure-Track Assistant Professor in the Department of Industrial Engineering at Tsinghua University. Prior to joining Tsinghua, I was a Postdoctoral Associate in the Department of Statistics and Data Science at Yale University, where I was also affiliated with the Center for Algorithms, Data, and Market Design (CADMY). I hold a doctoral degree in Computer Science from the University of Virginia, a master’s degree in Mechatronics Engineering, and bachelor’s degrees in Mechanical Engineering and English from Harbin Institute of Technology.
 
 <div class="masthead" style="margin-top: -25px;margin-bottom: -15;"> </div>
 
