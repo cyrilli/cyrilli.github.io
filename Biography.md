@@ -5,6 +5,7 @@ permalink: /biography/
 ---
 
 ## Work Experience
+- Assistant Professor, Department of Industrial Engineering at Tsinghua University, Jul 2025 - present
 - Postdoctoral Associate, Department of Statistics and Data Science at Yale University, Oct 2023 - Jun 2025
 - Research Intern, Walmart Labs, Jun 2020 - Aug 2020
 - Research Intern, General Motors China Science Lab, Jun 2017 - Aug 2017
