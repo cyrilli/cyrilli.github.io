@@ -3,8 +3,10 @@ layout: page
 title: Teaching
 permalink: /teaching/
 ---
+## Instructor
+- Foundations and Applications of Large Language Models, The Industrial Engineering and Data Analytics (IEDA) Summer School, Tsinghua University, July 2025
 
-## Guest Lectures
+## Guest Lecturer
 - *LLM Agent for Strategic and Interactive Decision-Making*, The Theory and Practice of AIGC, School of Economics and Management, Tsinghua University, Dec 2024
 - *Introduction to Multi-Agent Bandit Problems and Recent Advances*, CS-6190 Computer Science Perspectives, University of Virginia, Oct 2022
 
