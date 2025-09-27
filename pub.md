@@ -9,6 +9,9 @@ permalink: /publications/
 For the most up-to-date list of publications, please visit my [\[Google Scholar Profile\]](https://scholar.google.com/citations?user=w2ShljkAAAAJ&hl=en&oi=ao)
 
 ## Bandit Learning and Communication Strategies in Multi-Agent Systems
+- **Design-Based Bandits Under Network Interference: Trade-Off Between Regret and Statistical Inference**\
+  Zichen Wang, Zhiheng Zhang, Haoyang Hong, Haoxuan Li, <ins>Chuanhao Li</ins>, Huazheng Wang\
+  NeurIPS 2025
 - **Pure Exploration in Asynchronous Federated Bandits**\
   Zichen Wang, <ins>Chuanhao Li</ins>, Chenyu Song, Lianghui Wang, Quanquan Gu, Huazheng Wang\
   UAI 2024 [\[paper\]](https://arxiv.org/abs/2310.11015)
