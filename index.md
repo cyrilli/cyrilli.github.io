@@ -22,19 +22,19 @@ These methods enable robust, adaptive cooperative decision-making in multi-agent
 
 ## Selected Publications
 - **STRIDE: A Tool-Assisted LLM Agent Framework for Strategic and Interactive Decision-Making**\
-  <ins>Chuanhao Li</ins>, Runhan Yang, Tiankai Li, Milad Bafarassat, Kourosh Sharifi, Dirk Bergemann, and Zhuoran Yang\
+  Chuanhao Li, Runhan Yang, Tiankai Li, Milad Bafarassat, Kourosh Sharifi, Dirk Bergemann, and Zhuoran Yang\
   arXiv [\[paper\]](https://arxiv.org/abs/2405.16376) [\[code\]](https://github.com/cyrilli/STRIDE)
 - **Incentivized Truthful Communication for Federated Bandits**\
-  Zhepei Wei\*, <ins>Chuanhao Li</ins>\*, Haifeng Xu, Hongning Wang\
+  Zhepei Wei\*, Chuanhao Li\*, Haifeng Xu, Hongning Wang\
   ICLR 2024 [\[paper\]](https://arxiv.org/abs/2402.04485)
 - **Communication Efficient Distributed Learning for Kernelized Contextual Bandits**\
-  <ins>Chuanhao Li</ins>, Huazheng Wang, Mengdi Wang, Hongning Wang\
+  Chuanhao Li, Huazheng Wang, Mengdi Wang, Hongning Wang\
   NeurIPS 2022 [\[paper\]](https://arxiv.org/abs/2206.04835)
 - **Asynchronous Upper Confidence Bound Algorithms for Federated Linear Bandits**\
-  <ins>Chuanhao Li</ins>, Hongning Wang\
+  Chuanhao Li, Hongning Wang\
   AISTATS 2022 [\[paper\]](https://arxiv.org/abs/2110.01463) [\[code\]](https://github.com/cyrilli/Async-LinUCB)
 - **Unifying Clustered and Non-stationary Bandits**\
-  <ins>Chuanhao Li</ins>, Qingyun Wu, Hongning Wang\
+  Chuanhao Li, Qingyun Wu, Hongning Wang\
   AISTATS 2021 [\[paper\]](https://arxiv.org/abs/2009.02463) [\[code\]](https://github.com/cyrilli/DyClu)
 
 [Full Publication List](/publications/)
