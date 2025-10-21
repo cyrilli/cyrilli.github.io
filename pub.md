@@ -11,7 +11,7 @@ For the most up-to-date list of publications, please visit my [\[Google Scholar 
 ## Bandit Learning and Communication Strategies in Multi-Agent Systems
 - **Design-Based Bandits Under Network Interference: Trade-Off Between Regret and Statistical Inference**\
   Zichen Wang, Zhiheng Zhang, Haoyang Hong, Haoxuan Li, Chuanhao Li, Huazheng Wang\
-  NeurIPS 2025
+  NeurIPS 2025 [\[paper\]](https://arxiv.org/abs/2510.07646)
 - **Pure Exploration in Asynchronous Federated Bandits**\
   Zichen Wang, Chuanhao Li, Chenyu Song, Lianghui Wang, Quanquan Gu, Huazheng Wang\
   UAI 2024 [\[paper\]](https://arxiv.org/abs/2310.11015)
