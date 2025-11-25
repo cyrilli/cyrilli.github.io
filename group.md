@@ -37,7 +37,7 @@ Candidates with any of the following experience are particularly encouraged to a
 ## Current Students
 
 ### Ph.D. Students
-- Cheyu Chen — Starting Sep. 2026
+- Zheyu Chen — Starting Sep. 2026
 
 ### Master’s Students
 - Jinbo Li — Starting Sep. 2026
