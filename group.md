@@ -9,6 +9,8 @@ permalink: /group/
 
 We develop intelligent decision-making methods for complex industrial systems, with a focus on machine learning, optimization, game theory, and simulation. Our goal is to create decision-making algorithms and pipelines that are both theoretically rigorous and effective in real-world industrial environments.
 
+[Visit Github repositories of our group →](https://github.com/MINDS-THU)
+
 ---
 
 ## Prospective Students
