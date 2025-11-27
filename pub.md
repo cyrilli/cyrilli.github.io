@@ -8,7 +8,7 @@ permalink: /publications/
 <a name="pub"></a>
 For the most up-to-date list of publications, please visit my [\[Google Scholar Profile\]](https://scholar.google.com/citations?user=w2ShljkAAAAJ&hl=en&oi=ao)
 
-## Bandit Learning and Communication Strategies in Multi-Agent Systems
+## Online Learning and Communication in Multi-Agent Systems
 - **Design-Based Bandits Under Network Interference: Trade-Off Between Regret and Statistical Inference**\
   Zichen Wang, Zhiheng Zhang, Haoyang Hong, Haoxuan Li, Chuanhao Li, Huazheng Wang\
   NeurIPS 2025 [\[paper\]](https://arxiv.org/abs/2510.07646)
