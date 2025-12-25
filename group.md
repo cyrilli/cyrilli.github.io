@@ -39,6 +39,7 @@ Candidates with any of the following experience are particularly encouraged to a
 ## Current Students
 
 ### Ph.D. Students
+- Zhengyu Ye (Starting Sep. 2025)
 - Zheyu Chen (Starting Sep. 2026)
 - Yongsong Li (Starting Sep. 2026)
 
