@@ -45,11 +45,3 @@ Candidates with any of the following experience are particularly encouraged to a
 
 ### Master’s Students
 - Jinbo Li (Starting Sep. 2026)
-
-### Research Assistants
-- Zhuohuan Li
-- Jiani Miao
-- Lihong Xiong
-- Yi Zhang
-
-(*Listed in alphabetical order by last name.*)
