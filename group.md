@@ -30,8 +30,8 @@ We welcome **self-motivated, curious, and communicative** students who are excit
 
 Candidates with any of the following experience are particularly encouraged to apply:
 
-- **Discrete-event simulation** for industrial systems (manufacturing, supply chain, warehouse, etc.), including experience with tools such as SimPy or xDEVS, and optionally Godot or similar game engines for creating animations or interactive visualizations of simulation models
-- Experience with **LLM agent frameworks** or **post-training** (e.g., smolagents, RLHF, GRPO)
+- **Discrete-event simulation** for industrial systems (manufacturing, supply chain, warehouse, etc.), including experience with tools such as [SimPy](https://simpy.readthedocs.io/en/latest/), [salabim](https://github.com/salabim/salabim), or [xDEVS](https://github.com/iscar-ucm/xdevs), and optionally Godot or similar game engines for creating animations or interactive visualizations of simulation models
+- Experience with **LLM agent frameworks** and **post-training** (e.g., RLHF, GRPO)
 - Knowledge of **reinforcement learning**, **planning**, or **optimization** techniques for decision-making in dynamic systems
 
 ---
