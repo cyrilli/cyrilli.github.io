@@ -10,7 +10,7 @@ hide_masthead: true
 
 <div class="minds-intro">
 	<div class="minds-intro__image">
-		<img src="{{ site.baseurl }}/images/MINDS-THU.png" alt="MINDS Lab abstract visualization" loading="lazy">
+		<img src="{{ site.baseurl }}/images/MINDS-THU.png" alt="MINDS Lab abstract visualization" width="120" height="120" loading="lazy">
 	</div>
 	<div class="minds-intro__text">
 		<p>We develop intelligent decision-making methods for complex industrial systems, with a focus on machine learning, optimization, game theory, and simulation. Our goal is to create decision-making algorithms and pipelines that are both theoretically rigorous and effective in real-world industrial environments.</p>
