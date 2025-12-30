@@ -80,6 +80,10 @@ p {
   font-size: 18px;
 }
 
+h1 + p {
+  margin-top: 6px;
+}
+
 b {
   color: $gray;
 }
@@ -260,6 +264,37 @@ img {
     max-width: 80%; /* Reduce maximum width to 80% of container */
     height: auto; /* Maintain aspect ratio */
     margin: 0 auto; /* Center the image horizontally */
+  }
+}
+
+.minds-intro {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  margin: -10px 0 0 0;
+  flex-wrap: wrap;
+}
+
+.minds-intro__text {
+  flex: 2 1 360px;
+}
+
+.minds-intro__image {
+  flex: 0 0 150px;
+  text-align: left;
+
+  @include mobile {
+    flex: 1 1 100%;
+    text-align: center;
+  }
+
+  img {
+     max-width: 125px;
+    width: 100%;
+    height: auto;
+    border-radius: 12px;
+    display: block;
+    margin: 0 auto 0px auto;
   }
 }
 // .site-description {
