@@ -5,7 +5,7 @@ permalink: /group/
 hide_masthead: true
 ---
 
-# Multi-agent INdustrial Decision-making System (MINDS) Lab
+# Multi-agent Industrial Decision-making System (MINDS) Lab
 ("*MINDS*" comes from **M**ulti-agent **IN**dustrial **D**ecision-making **S**ystem)
 
 <div class="minds-intro" style="display:flex;align-items:center;gap:25px;flex-wrap:wrap;">
