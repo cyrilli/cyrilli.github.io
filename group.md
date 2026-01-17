@@ -23,6 +23,7 @@ hide_masthead: true
 ## Prospective Students
 
 I recruit **Ph.D. students**, **Master’s students**, and **Undergraduate Research Assistants** on a yearly basis.
+
 If you are interested in joining the lab, please email your **CV** to **chuanhao-li {at} tsinghua.edu.cn**.
 
 <span style="color:red;"><strong>New</strong></span> Actively looking for postdoctoral researchers to join the group.
@@ -37,9 +38,9 @@ We welcome **self-motivated, curious, and communicative** students who are excit
 ### Especially Valued Expertise
 
 Candidates with experience in one or more of the following areas are strongly encouraged to apply:
-- **Domain expertise and hands-on experience in industrial and operational systems**, including manufacturing, supply chains, logistics, and warehousing, with demonstrated use of **discrete-event simulation** for system modeling, experimentation, and performance analysis.  
-- **Proven experience designing, training, and evaluating deep learning models**, including **large language models**, using frameworks such as **PyTorch** and established LLM training and fine-tuning toolchains.  
-- **Theoretical foundations in reinforcement learning, optimization, and game theory**, with demonstrated ability to analyze **theoretical guarantees of learning and decision-making algorithms**, including regret bounds, convergence properties, and equilibrium analysis.
+- **Domain expertise and hands-on experience in industrial and operational systems**, including manufacturing, supply chains, logistics, and warehousing, with demonstrated use of discrete-event simulation for system modeling, experimentation, and performance analysis.  
+- **Proven experience designing, training, and evaluating deep learning models**, including large language models, using frameworks such as PyTorch and established LLM training and fine-tuning toolchains.  
+- **Theoretical foundations in reinforcement learning, optimization, and game theory**, with demonstrated ability to analyze theoretical guarantees of learning and decision-making algorithms, including regret bounds, convergence properties, and equilibrium analysis.
 
 ---
 
