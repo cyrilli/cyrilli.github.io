@@ -22,7 +22,10 @@ hide_masthead: true
 
 ## Prospective Students
 
-I recruit **Ph.D. students**, **Master’s students**, and **Undergraduate Research Assistants** on a yearly basis.  
+I recruit **Ph.D. students**, **Master’s students**, and **Undergraduate Research Assistants** on a yearly basis.
+
+<span style="color:red;"><strong>New</strong></span> Actively looking for postdoctoral researchers to join the group.
+
 If you are interested in joining the lab, please email your **CV** to **chuanhao-li {at} tsinghua.edu.cn**.
 
 ### What We Look For
@@ -35,11 +38,11 @@ We welcome **self-motivated, curious, and communicative** students who are excit
 
 ### Especially Valued Expertise
 
-Candidates with any of the following experience are particularly encouraged to apply:
+Candidates with experience in one or more of the following areas are strongly encouraged to apply:
 
-- **Discrete-event simulation** for industrial systems (manufacturing, supply chain, warehouse, etc.), including experience with tools such as [SimPy](https://simpy.readthedocs.io/en/latest/), [salabim](https://github.com/salabim/salabim), or [xDEVS](https://github.com/iscar-ucm/xdevs), and optionally Godot or similar game engines for creating animations or interactive visualizations of simulation models
-- Experience with **LLM agent frameworks** and **post-training** (e.g., RLHF, GRPO)
-- Knowledge of **reinforcement learning**, **planning**, or **optimization** techniques for decision-making in dynamic systems
+- **Domain expertise and hands-on experience in industrial and operational systems**, including manufacturing, supply chains, logistics, and warehousing, with demonstrated use of **discrete-event simulation** for system modeling, experimentation, and performance analysis.  
+- **Proven experience designing, training, and evaluating deep learning models**, including **large language models**, using frameworks such as **PyTorch** and established LLM training and fine-tuning toolchains.  
+- **Theoretical foundations in reinforcement learning, optimization, and game theory**, with demonstrated ability to analyze **theoretical guarantees of learning and decision-making algorithms**, including regret bounds, convergence properties, and equilibrium analysis.
 
 ---
 
