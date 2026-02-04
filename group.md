@@ -10,7 +10,7 @@ hide_masthead: true
 
 <div class="minds-intro" style="display:flex;align-items:center;gap:25px;flex-wrap:wrap;">
 	<div class="minds-intro__image" style="flex:0 0 auto;">
-		<img src="https://github.com/cyrilli/cyrilli.github.io/blob/master/images/MINDS-THU.png" alt="MINDS Lab abstract visualization" width="120" height="120" loading="lazy" style="display:block;">
+		<img src="{{ site.baseurl }}/images/MINDS-THU.png" alt="MINDS Lab abstract visualization" width="120" height="120" loading="lazy" style="display:block;">
 	</div>
 	<div class="minds-intro__text" style="flex:1 1 320px;min-width:260px;">
 		<p>We develop intelligent decision-making methods for complex industrial systems, with a focus on machine learning, optimization, game theory, and simulation. Our goal is to create decision-making algorithms and pipelines that are both theoretically rigorous and effective in real-world industrial environments.</p>
