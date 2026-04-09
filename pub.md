@@ -77,6 +77,9 @@ For the most up-to-date list of publications, please visit my [\[Google Scholar 
 <div class="masthead" style="margin-top: -25px;margin-bottom: -15;"> </div>
 
 ## Applications of Deep Learning and Foundation Models
+- **Training Language Models For Bilateral Trade With Private Information**\
+  Dirk Bergemann, Soheil Ghili, Xinyang Hu, Chuanhao Li, Zhuoran Yang\
+  [\[paper\]](https://cowles.yale.edu/sites/default/files/2026-04/d2514.pdf)
 - **Specification-Driven Generation and Evaluation of Discrete-Event World Models via the DEVS Formalism**\
   Zheyu Chen, Zhuohuan Li, Chuanhao Li\
   arXiv 2026 [\[paper\]](https://arxiv.org/abs/2603.03784)
@@ -84,7 +87,7 @@ For the most up-to-date list of publications, please visit my [\[Google Scholar 
   Ed Li, Junyu Ren, Xintian Pan, Cat Yan, Chuanhao Li, Dirk Bergemann, Zhuoran Yang\
   arXiv 2025 [\[project page\]](https://freephdlabor.github.io/) [\[code\]](https://github.com/ltjed/freephdlabor) [\[technical report\]](https://arxiv.org/abs/2510.15624)
 - **STRIDE: A Tool-Assisted LLM Agent Framework for Strategic and Interactive Decision-Making**\
-  Chuanhao Li, Runhan Yang, Tiankai Li, Milad Bafarassat, Kourosh Sharifi, Dirk Bergemann, and Zhuoran Yang\
+  Chuanhao Li, Runhan Yang, Tiankai Li, Milad Bafarassat, Kourosh Sharifi, Dirk Bergemann, Zhuoran Yang\
   arXiv 2024 [\[paper\]](https://arxiv.org/abs/2405.16376) [\[code\]](https://github.com/cyrilli/STRIDE)\
   INFORMS Workshop on Market Design @EC 2024, AutoRL Workshop @ICML 2024
 - **PrefPaint: Aligning Image Inpainting Diffusion Model with Human Preference**\
