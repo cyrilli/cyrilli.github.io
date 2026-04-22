@@ -79,7 +79,7 @@ For the most up-to-date list of publications, please visit my [\[Google Scholar 
 ## Applications of Deep Learning and Foundation Models
 - **Training Language Models For Bilateral Trade With Private Information**\
   Dirk Bergemann, Soheil Ghili, Xinyang Hu, Chuanhao Li, Zhuoran Yang\
-  [\[paper\]](https://cowles.yale.edu/sites/default/files/2026-04/d2514.pdf)
+  arXiv 2026 [\[paper\]](https://arxiv.org/abs/2604.16472)
 - **Specification-Driven Generation and Evaluation of Discrete-Event World Models via the DEVS Formalism**\
   Zheyu Chen, Zhuohuan Li, Chuanhao Li\
   arXiv 2026 [\[paper\]](https://arxiv.org/abs/2603.03784)
