@@ -8,6 +8,23 @@ permalink: /publications/
 <a name="pub"></a>
 For the most up-to-date list of publications, please visit my [\[Google Scholar Profile\]](https://scholar.google.com/citations?user=w2ShljkAAAAJ&hl=en&oi=ao)
 
+## Large Language Model Based Agentic Systems
+- **Training Language Models For Bilateral Trade With Private Information**\
+  Dirk Bergemann, Soheil Ghili, Xinyang Hu, Chuanhao Li, Zhuoran Yang\
+  arXiv 2026 [\[paper\]](https://arxiv.org/abs/2604.16472)
+- **Specification-Driven Generation and Evaluation of Discrete-Event World Models via the DEVS Formalism**\
+  Zheyu Chen, Zhuohuan Li, Chuanhao Li\
+  arXiv 2026 [\[paper\]](https://arxiv.org/abs/2603.03784)
+- **Build Your Personalized Research Group: A Multiagent Framework for Continual and Interactive Science Automation**\
+  Ed Li, Junyu Ren, Xintian Pan, Cat Yan, Chuanhao Li, Dirk Bergemann, Zhuoran Yang\
+  arXiv 2025 [\[project page\]](https://freephdlabor.github.io/) [\[code\]](https://github.com/ltjed/freephdlabor) [\[technical report\]](https://arxiv.org/abs/2510.15624)
+- **STRIDE: A Tool-Assisted LLM Agent Framework for Strategic and Interactive Decision-Making**\
+  Chuanhao Li, Runhan Yang, Tiankai Li, Milad Bafarassat, Kourosh Sharifi, Dirk Bergemann, Zhuoran Yang\
+  arXiv 2024 [\[paper\]](https://arxiv.org/abs/2405.16376) [\[code\]](https://github.com/cyrilli/STRIDE)\
+  INFORMS Workshop on Market Design @EC 2024, AutoRL Workshop @ICML 2024
+  
+<div class="masthead" style="margin-top: -25px;margin-bottom: -15;"> </div>
+
 ## Online Learning and Communication in Multi-Agent Systems
 - **Design-Based Bandits Under Network Interference: Trade-Off Between Regret and Statistical Inference**\
   Zichen Wang, Zhiheng Zhang, Haoyang Hong, Haoxuan Li, Chuanhao Li, Huazheng Wang\
@@ -76,20 +93,7 @@ For the most up-to-date list of publications, please visit my [\[Google Scholar 
 
 <div class="masthead" style="margin-top: -25px;margin-bottom: -15;"> </div>
 
-## Applications of Deep Learning and Foundation Models
-- **Training Language Models For Bilateral Trade With Private Information**\
-  Dirk Bergemann, Soheil Ghili, Xinyang Hu, Chuanhao Li, Zhuoran Yang\
-  arXiv 2026 [\[paper\]](https://arxiv.org/abs/2604.16472)
-- **Specification-Driven Generation and Evaluation of Discrete-Event World Models via the DEVS Formalism**\
-  Zheyu Chen, Zhuohuan Li, Chuanhao Li\
-  arXiv 2026 [\[paper\]](https://arxiv.org/abs/2603.03784)
-- **Build Your Personalized Research Group: A Multiagent Framework for Continual and Interactive Science Automation**\
-  Ed Li, Junyu Ren, Xintian Pan, Cat Yan, Chuanhao Li, Dirk Bergemann, Zhuoran Yang\
-  arXiv 2025 [\[project page\]](https://freephdlabor.github.io/) [\[code\]](https://github.com/ltjed/freephdlabor) [\[technical report\]](https://arxiv.org/abs/2510.15624)
-- **STRIDE: A Tool-Assisted LLM Agent Framework for Strategic and Interactive Decision-Making**\
-  Chuanhao Li, Runhan Yang, Tiankai Li, Milad Bafarassat, Kourosh Sharifi, Dirk Bergemann, Zhuoran Yang\
-  arXiv 2024 [\[paper\]](https://arxiv.org/abs/2405.16376) [\[code\]](https://github.com/cyrilli/STRIDE)\
-  INFORMS Workshop on Market Design @EC 2024, AutoRL Workshop @ICML 2024
+## Applied Deep Learning
 - **PrefPaint: Aligning Image Inpainting Diffusion Model with Human Preference**\
   Kendong Liu\*, Zhiyu Zhu\*, Chuanhao Li\*, Hui Liu, Huanqiang Zeng, and Junhui Hou\
   NeurIPS 2024 [\[project page\]](https://prefpaint.github.io/)
