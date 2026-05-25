@@ -11,7 +11,7 @@ For the most up-to-date list of publications, please visit my [\[Google Scholar 
 ## Large Language Model Based Agentic Systems
 - **Specification-Driven Generation and Evaluation of Discrete-Event World Models via the DEVS Formalism**\
   Zheyu Chen, Zhuohuan Li, Chuanhao Li\
-  arXiv 2026 [\[project page\]](https://minds-thu.github.io/devs_gen/) [\[paper\]](https://arxiv.org/abs/2603.03784)
+  arXiv 2026 [\[project page\]](https://minds-thu.github.io/devs_gen/) [\[code\]](https://github.com/czyarl/devs_gen_code) [\[paper\]](https://arxiv.org/abs/2603.03784)
 - **Understanding the Mechanism of Altruism in Large Language Models**\
   Shuhuai Zhang, Shu Wang, Zijun Yao, Chuanhao Li, Xiaozhi Wang, Songfa Zhong, Tracy Xiao Liu\
   arXiv 2026 [\[paper\]](https://arxiv.org/abs/2604.19260)
