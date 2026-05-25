@@ -9,12 +9,15 @@ permalink: /publications/
 For the most up-to-date list of publications, please visit my [\[Google Scholar Profile\]](https://scholar.google.com/citations?user=w2ShljkAAAAJ&hl=en&oi=ao)
 
 ## Large Language Model Based Agentic Systems
-- **Training Language Models For Bilateral Trade With Private Information**\
-  Dirk Bergemann, Soheil Ghili, Xinyang Hu, Chuanhao Li, Zhuoran Yang\
-  arXiv 2026 [\[paper\]](https://arxiv.org/abs/2604.16472)
 - **Specification-Driven Generation and Evaluation of Discrete-Event World Models via the DEVS Formalism**\
   Zheyu Chen, Zhuohuan Li, Chuanhao Li\
   arXiv 2026 [\[project page\]](https://minds-thu.github.io/devs_gen/) [\[paper\]](https://arxiv.org/abs/2603.03784)
+- **Understanding the Mechanism of Altruism in Large Language Models**\
+  Shuhuai Zhang, Shu Wang, Zijun Yao, Chuanhao Li, Xiaozhi Wang, Songfa Zhong, Tracy Xiao Liu\
+  arXiv 2026 [\[paper\]](https://arxiv.org/abs/2604.19260)
+- **Training Language Models For Bilateral Trade With Private Information**\
+  Dirk Bergemann, Soheil Ghili, Xinyang Hu, Chuanhao Li, Zhuoran Yang\
+  arXiv 2026 [\[paper\]](https://arxiv.org/abs/2604.16472)
 - **Build Your Personalized Research Group: A Multiagent Framework for Continual and Interactive Science Automation**\
   Ed Li, Junyu Ren, Xintian Pan, Cat Yan, Chuanhao Li, Dirk Bergemann, Zhuoran Yang\
   arXiv 2025 [\[project page\]](https://freephdlabor.github.io/) [\[code\]](https://github.com/ltjed/freephdlabor) [\[technical report\]](https://arxiv.org/abs/2510.15624)
