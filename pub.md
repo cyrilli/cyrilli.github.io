@@ -12,6 +12,9 @@ For the most up-to-date list of publications, please visit my [\[Google Scholar 
 - **Specification-Driven Generation and Evaluation of Discrete-Event World Models via the DEVS Formalism**\
   Zheyu Chen, Zhuohuan Li, Chuanhao Li\
   arXiv 2026 [\[project page\]](https://minds-thu.github.io/devs_gen/) [\[code\]](https://github.com/czyarl/devs_gen_code) [\[paper\]](https://arxiv.org/abs/2603.03784)
+- **COOPA: A Modular LLM Agent Architecture for Operations Research Problems**\
+  Chuanhao Li\*, Xiaoan Xu\*, Dirk Bergemann, Ethan X Fang, Yehua Wei, Zhuoran Yang\
+  arXiv 2026 [\[paper\]](https://arxiv.org/abs/2606.27611)
 - **Understanding the Mechanism of Altruism in Large Language Models**\
   Shuhuai Zhang, Shu Wang, Zijun Yao, Chuanhao Li, Xiaozhi Wang, Songfa Zhong, Tracy Xiao Liu\
   arXiv 2026 [\[paper\]](https://arxiv.org/abs/2604.19260)
