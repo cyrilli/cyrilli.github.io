@@ -14,7 +14,7 @@ For the most up-to-date list of publications, please visit my [\[Google Scholar 
   arXiv 2026 [\[paper\]](https://arxiv.org/abs/2608.09343)
 - **Specification-Driven Generation and Evaluation of Discrete-Event World Models via the DEVS Formalism**\
   Zheyu Chen, Zhuohuan Li, Chuanhao Li\
-  arXiv 2026 [\[project page\]](https://minds-thu.github.io/devs_gen/) [\[code\]](https://github.com/czyarl/devs_gen_code) [\[paper\]](https://arxiv.org/abs/2603.03784)
+  arXiv 2026 [\[paper\]](https://arxiv.org/abs/2603.03784) [\[code\]](https://github.com/czyarl/devs_gen_code) [\[project page\]](https://minds-thu.github.io/devs_gen/)
 - **COOPA: A Modular LLM Agent Architecture for Operations Research Problems**\
   Chuanhao Li\*, Xiaoan Xu\*, Dirk Bergemann, Ethan X Fang, Yehua Wei, Zhuoran Yang\
   arXiv 2026 [\[paper\]](https://arxiv.org/abs/2606.27611)
@@ -26,7 +26,7 @@ For the most up-to-date list of publications, please visit my [\[Google Scholar 
   arXiv 2026 [\[paper\]](https://arxiv.org/abs/2604.16472)
 - **Build Your Personalized Research Group: A Multiagent Framework for Continual and Interactive Science Automation**\
   Ed Li, Junyu Ren, Xintian Pan, Cat Yan, Chuanhao Li, Dirk Bergemann, Zhuoran Yang\
-  arXiv 2025 [\[project page\]](https://freephdlabor.github.io/) [\[code\]](https://github.com/ltjed/freephdlabor) [\[technical report\]](https://arxiv.org/abs/2510.15624)
+  arXiv 2025 [\[technical report\]](https://arxiv.org/abs/2510.15624) [\[code\]](https://github.com/ltjed/freephdlabor) [\[project page\]](https://freephdlabor.github.io/)
 - **STRIDE: A Tool-Assisted LLM Agent Framework for Strategic and Interactive Decision-Making**\
   Chuanhao Li, Runhan Yang, Tiankai Li, Milad Bafarassat, Kourosh Sharifi, Dirk Bergemann, Zhuoran Yang\
   arXiv 2024 [\[paper\]](https://arxiv.org/abs/2405.16376) [\[code\]](https://github.com/cyrilli/STRIDE)\
@@ -105,7 +105,7 @@ For the most up-to-date list of publications, please visit my [\[Google Scholar 
 ## Applied Deep Learning
 - **PrefPaint: Aligning Image Inpainting Diffusion Model with Human Preference**\
   Kendong Liu\*, Zhiyu Zhu\*, Chuanhao Li\*, Hui Liu, Huanqiang Zeng, and Junhui Hou\
-  NeurIPS 2024 [\[project page\]](https://prefpaint.github.io/)
+  NeurIPS 2024 [\[paper\]](https://arxiv.org/abs/2410.21966) [\[code\]](https://github.com/Kenkenzaii/PrefPaint) [\[project page\]](https://prefpaint.github.io/)
 - **A Deep Convolutional Neural Network with New Training Methods for Bearing Fault Diagnosis under Noisy Environment and Different Working Load**\
   Wei Zhang, Chuanhao Li, Gaoliang Peng, Yuanhang Chen, Zhujun Zhang\
   Mechanical Systems and Signal Processing 2018 [\[paper\]](https://www.sciencedirect.com/science/article/abs/pii/S0888327017303369)
