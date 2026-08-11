@@ -9,6 +9,9 @@ permalink: /publications/
 For the most up-to-date list of publications, please visit my [\[Google Scholar Profile\]](https://scholar.google.com/citations?user=w2ShljkAAAAJ&hl=en&oi=ao)
 
 ## Large Language Model Based Agentic Systems
+- **LLM-Guided Heuristic Design from Simulation Traces: A Case Study in Dynamic Production and AGV Scheduling**\
+  Jinbo Li, Chuanhao Li\
+  arXiv 2026 [\[paper\]](https://arxiv.org/abs/2608.09343)
 - **Specification-Driven Generation and Evaluation of Discrete-Event World Models via the DEVS Formalism**\
   Zheyu Chen, Zhuohuan Li, Chuanhao Li\
   arXiv 2026 [\[project page\]](https://minds-thu.github.io/devs_gen/) [\[code\]](https://github.com/czyarl/devs_gen_code) [\[paper\]](https://arxiv.org/abs/2603.03784)
