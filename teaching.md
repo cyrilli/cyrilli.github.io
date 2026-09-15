@@ -4,7 +4,11 @@ title: Teaching
 permalink: /teaching/
 ---
 ## Instructor
-- Foundations and Applications of Large Language Models, The Industrial Engineering and Data Analytics (IEDA) Summer School, Tsinghua University, July 2025
+- Dynamic Programming and Reinforcement Learning, Tsinghua University, Fall 2026
+- Foundations and Applications of Large Language Models, The Industrial Engineering and Data Analytics (IEDA) Summer School, Tsinghua University, Summer 2026
+- Generative AI-Based Research Methods for Management Science (Co-Instructor), Tsinghua University, Spring 2026
+- Representation and Reasoning: Foundations of Large Models, Tsinghua University, Spring 2026
+- Foundations and Applications of Large Language Models, The Industrial Engineering and Data Analytics (IEDA) Summer School, Tsinghua University, Summer 2025
 
 ## Guest Lecturer
 - *LLM Agent for Strategic and Interactive Decision-Making*, The Theory and Practice of AIGC, School of Economics and Management, Tsinghua University, Dec 2024
