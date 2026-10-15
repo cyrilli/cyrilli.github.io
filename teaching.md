@@ -4,7 +4,7 @@ title: Teaching
 permalink: /teaching/
 ---
 ## Instructor
-- Dynamic Programming and Reinforcement Learning, Tsinghua University, Fall 2026
+- [Dynamic Programming and Reinforcement Learning, Tsinghua University, Fall 2026](https://www.chuanhao-li.com/DPAndRL-Fall2026/)
 - Foundations and Applications of Large Language Models, The Industrial Engineering and Data Analytics (IEDA) Summer School, Tsinghua University, Summer 2026
 - Generative AI-Based Research Methods for Management Science (Co-Instructor), Tsinghua University, Spring 2026
 - Representation and Reasoning: Foundations of Large Models, Tsinghua University, Spring 2026
