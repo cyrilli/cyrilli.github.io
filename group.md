@@ -50,6 +50,7 @@ Candidates with experience in one or more of the following areas are strongly en
 - Zhengyu Ye (Starting Sep. 2025)
 - Zheyu Chen (Starting Sep. 2026)
 - Yongsong Li (Starting Sep. 2026)
-
+- Shilang Huang (Starting Sep. 2027)
+- Tongxi Wang (Starting Sep. 2027)
 ### Master’s Students
 - Jinbo Li (Starting Sep. 2026)
